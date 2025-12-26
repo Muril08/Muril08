@@ -1,5 +1,7 @@
 ### Sobre mim  
-Sou um desenvolvedor Full-Stack apaixonada por desafios e sempre disposto a aprender novas tecnologias. Acredito que a perseverança e a curiosidade são essenciais para criar soluções inovadoras e impactantes.  
+Técnico em Desenvolvimento de Sistemas, com forte base em lógica de programação e back-end. 
+Já atuei em projetos envolvendo manipulação de dados, automação com Arduino e integração entre hardware e software. 
+Tenho interesse em soluções tecnológicas com impacto real, especialmente nas áreas de educação e meio ambiente. 
 
 ### Linguagens e Tecnologias  
 <p align="left">
